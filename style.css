@@ -66,6 +66,8 @@ section.stats{
 
 }
 
+/* Profile Card Section */
+
 .stat-card {
     background: #33495f;
     color: white;
@@ -193,6 +195,8 @@ div.profile-card img{
 .directory tbody tr:last-child td {
     border-bottom: none;
 }
+
+
 
 
 /* Login page CSS*/
